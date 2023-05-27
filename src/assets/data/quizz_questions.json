@@ -1,0 +1,55 @@
+{
+  "title":"Descubra com qual área DEV você mais se identifica!",
+  "questions":[
+    {
+      "id":1,
+      "question": "Quando você visita um site ou aplicativo, o que mais chama a sua atenção?",
+      "options":[
+        {"id": 1, "name":"O layout, as cores e as imagens utilizadas.", "alias":"A"},
+        {"id": 2, "name":"As informações e os dados apresentados.", "alias":"C"},
+        {"id": 3, "name":"As funcionalidades e as interações disponíveis.", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": " Quando você pensa em como um site ou aplicativo funciona, o que mais te intriga?",
+      "options":[
+        {"id": 1, "name":"Como as diferentes partes se comunicam e trabalham juntas.", "alias":"B"},
+        {"id": 2, "name":"Como os elementos são posicionados e organizados na página.", "alias":"A"},
+        {"id": 3, "name":"Como os dados são armazenados e recuperados.", "alias":"C"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Quando você precisa encontrar informações específicas em um site ou aplicativo, o que você faz?",
+      "options":[
+        {"id": 1, "name":"Navego pelos menus e links para encontrar o que procuro.", "alias":"A"},
+        {"id": 2, "name":"Uso ferramentas de busca ou filtros para refinar os resultados.", "alias":"B"},
+        {"id": 3, "name":"Acesso bases de dados ou procure por recursos semelhantes.", "alias":"C"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Quando você pensa em melhorar a velocidade e o desempenho de um site ou aplicativo, o que vem à sua mente?",
+      "options":[
+        {"id": 1, "name":"Melhorar a eficiência de como os dados são armazenados e acessados.", "alias":"C"},
+        {"id": 2, "name":"Tornar a interface mais rápida e responsiva.", "alias":"A"},
+        {"id": 3, "name":"Otimizar o funcionamento geral e a velocidade das ações.", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Quando você pensa em segurança de informações em um site ou aplicativo, o que você considera importante?",
+      "options":[
+        {"id": 1, "name":"Evitar ações maliciosas e garantir a integridade dos dados.", "alias":"B"},
+        {"id": 2, "name":"Garantir que as informações sejam armazenadas e acessadas corretamente.", "alias":"C"},
+        {"id": 3, "name":"Proteger as informações pessoais dos usuários.", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "DEV Front-End!",
+    "B": "DEV Back-End!",
+    "C": "Cientista de Dados!"
+  }
+}
